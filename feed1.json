@@ -1,0 +1,129 @@
+{
+        "d":{
+                "results":[
+                        {
+                                "__metadata":{
+                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Composite?Query=\u0027site=iabetes.org avi file\u0027&$skip=0&$top=1",
+                                        "type":"ExpandableSearchResult"
+                                },
+                                "ID":"44ab97a9-bb5e-4a12-95ba-52c786933a99",
+                                "WebTotal":"5800000",
+                                "WebOffset":"0",
+                                "AlteredQuery":"",
+                                "AlterationOverrideQuery":"",
+                                "Web":[
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=0&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"77a7f2f2-92c8-42f9-aa81-1c8b134ba75f",
+                                                "Title":"AVI Format | AVI Player | AVI Codec | DivX.com",
+                                                "Description":"AVI. AVI is a popular container file format used for watching standard definition video on the PC and is the container used by DivX video versions 3 through 6.",
+                                                "DisplayUrl":"www.divx.com/en/software/technologies/avi",
+                                                "Url":"http://www.divx.com/en/software/technologies/avi"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=1&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"018ec59d-08be-4277-a163-739d639f3f3e",
+                                                "Title":"Type-1 vs. Type-2 DV AVI Files (Windows)",
+                                                "Description":"Type-1 vs. Type-2 DV AVI Files. DV cameras produce interleaved audio-video; each frame of video also contains the audio information. If you save DV data to an AVI ...",
+                                                "DisplayUrl":"https://msdn.microsoft.com/en-us/library/windows/desktop/dd407250...",
+                                                "Url":"https://msdn.microsoft.com/en-us/library/windows/desktop/dd407250(v=vs.85).aspx"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=2&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"5dcbb078-221d-45c8-a1bf-a3adfef4b7bf",
+                                                "Title":"Audio Video Interleave - Wikipedia, the free encyclopedia",
+                                                "Description":"Audio Video Interleaved (also Audio Video Interleave), ... An AVI file may carry audio/visual data inside the chunks in virtually any compression scheme, ...",
+                                                "DisplayUrl":"https://en.wikipedia.org/wiki/Audio_Video_Interleave",
+                                                "Url":"https://en.wikipedia.org/wiki/Audio_Video_Interleave"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=3&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"7264fe0e-8d3f-4ed9-92eb-5c1c8e0ef401",
+                                                "Title":"Free AVI Player - Free download and software reviews ...",
+                                                "Description":"This software is an AVI player for the AVI media files",
+                                                "DisplayUrl":"download.cnet.com/Free-AVI-Player/3000-13632_4-75978741.html",
+                                                "Url":"http://download.cnet.com/Free-AVI-Player/3000-13632_4-75978741.html"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=4&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"d3cce12a-1bd2-479d-b16e-27fa24610649",
+                                                "Title":"Free Avi Movie Files Downloads",
+                                                "Description":"Free Avi Movie Files Shareware and Freeware. WinSite . Home; Search WinSite; Browse WinSite; HotFiles@WinSite; Submit at WinSite . WinSite specialty archive. Audio ...",
+                                                "DisplayUrl":"avi-movie-files.winsite.com",
+                                                "Url":"http://avi-movie-files.winsite.com/"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=5&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"b2d2f367-ac43-4970-8e5c-cb7e303f9613",
+                                                "Title":"AVI – DivX: Most popular video format, DivX codec quality ...",
+                                                "Description":"... they can display incredible video quality while maintaining a small file size. ... AVI is an acronym for \u0027Audio Video Interleave\u0027, ...",
+                                                "DisplayUrl":"www.divx.com/en/node/1001",
+                                                "Url":"http://www.divx.com/en/node/1001"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=6&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"627c0338-803c-45b9-83a1-e0bb55c6ad0c",
+                                                "Title":"AVI File Format (Windows)",
+                                                "Description":"AVI File Format. This section describes the AVI file format. AVI RIFF File Reference; DV Data in the AVI File Format; Related topics Appendixes ...",
+                                                "DisplayUrl":"https://msdn.microsoft.com/en-us/library/windows/desktop/dd318187...",
+                                                "Url":"https://msdn.microsoft.com/en-us/library/windows/desktop/dd318187(v=vs.85).aspx"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=7&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"4935f779-5ef6-49d1-ba32-d40af483f56c",
+                                                "Title":"Test Avi Files Software - Free Download Test Avi Files",
+                                                "Description":"Test Avi Files, free test avi files software downloads. WinSite . Home; Search WinSite; Browse WinSite; HotFiles@WinSite; Submit at WinSite . WinSite specialty ...",
+                                                "DisplayUrl":"www.winsite.com/test/test+avi+files",
+                                                "Url":"http://www.winsite.com/test/test+avi+files/"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=8&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"3a12e6c9-e4a8-46e3-87ea-09e920fec629",
+                                                "Title":"Free AVI Video Converter - Free download and software ...",
+                                                "Description":"Free AVI Converter converts various forms of media to different formats with its ... Free AVI Video Converter. Convert any video files to different video formats ...",
+                                                "DisplayUrl":"download.cnet.com/Free-AVI-Video-Converter/3000-2194_4-75685273.html",
+                                                "Url":"http://download.cnet.com/Free-AVI-Video-Converter/3000-2194_4-75685273.html"
+                                        },
+                                        {
+                                                "__metadata":{
+                                                        "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/ExpandableSearchResultSet(guid\u002744ab97a9-bb5e-4a12-95ba-52c786933a99\u0027)/Web?$skip=9&$top=1",
+                                                        "type":"WebResult"
+                                                },
+                                                "ID":"b78928d8-8246-4d90-963e-8741b417dc01",
+                                                "Title":"Can\u0027t open avi file | Apple Support Communities",
+                                                "Description":"I can\u0027t open an uncompress avi file taht i use to open in Qt 7.0 and 6.x. ... Now I get great video on my .avi files but the sound just isn\u0027t there ...",
+                                                "DisplayUrl":"https://discussions.apple.com/thread/516588?start=0&tstart=0",
+                                                "Url":"https://discussions.apple.com/thread/516588?start=0&tstart=0"
+                                        }
+                                ]
+                        }
+                ]
+        }
+}

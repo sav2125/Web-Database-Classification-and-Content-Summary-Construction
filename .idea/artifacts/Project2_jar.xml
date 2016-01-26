@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Project2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project2_jar</output-path>
+    <root id="archive" name="Project2.jar">
+      <element id="module-output" name="Project2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gson-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-jena-1.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jericho-html-3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-lib-0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-codec-1.4.jar" path-in-jar="/" />
+      <element id="directory" name="files">
+        <element id="file-copy" path="$PROJECT_DIR$/files/computers.txt" />
+        <element id="file-copy" path="$PROJECT_DIR$/files/health.txt" />
+        <element id="file-copy" path="$PROJECT_DIR$/files/root.txt" />
+        <element id="file-copy" path="$PROJECT_DIR$/files/sports.txt" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
